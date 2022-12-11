@@ -53,7 +53,3 @@ If you are satisfied with the state of your program, you can also run the test c
 ```
 make grade
 ```
-
-## Demo Run
-
-add a screenshot / text of a demo run of your program here.
